@@ -2,3 +2,4 @@ avocados
 salt
 lime
 white onion
+cilantro
